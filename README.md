@@ -9,7 +9,7 @@ Repositório das atividades da disciplina **Técnicas de Programação**. Aqui e
 
 - **/atividades**: 📝 Atividades práticas.
 - **/projetos**: 🏗️ Projetos mais complexos.
-- **/testes**: ✅ Casos de teste.
+- **/testes**: ✅ Casos de teste, Avaliações.
   
 ## 🎯 Objetivos
 
@@ -20,7 +20,7 @@ Repositório das atividades da disciplina **Técnicas de Programação**. Aqui e
 ## 🧑‍💻 Tecnologias
 
 - **Linguagens**: Python 🐍, C 🖤, Java ☕️.
-- **Ferramentas**: IDEs como VSCode, PyCharm.
+- **Ferramentas**: IDEs como VSCode, PyCharm, Google colab.
 
 ## 🚀 Como Usar
 
